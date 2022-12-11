@@ -3,5 +3,12 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CodeLabs_Compose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/BottomNavBarDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/CodeLabsPAMN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/InstagramFeed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/NavigationDrawerComposeExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/PAMNMuseum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/QrCodeScannerCompose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs_Compose/splashscreen-compose" vcs="Git" />
   </component>
 </project>
